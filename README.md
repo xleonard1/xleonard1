@@ -28,7 +28,11 @@ You can also catch me with FAMILY.
 - HTML5 
 - CSS
 - JavaScript
-- JQuery
+- Node.js
+- Express.js
+- MySQL
+- MVC
+- Mongo
 - Bootstrap
 - Visual Studio Code
 - Web and Third-Party APIs
