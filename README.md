@@ -25,10 +25,12 @@ You can also catch me with FAMILY.
 
 ```
 
-- HTML5 
-- CSS
+- Typescript
+- React
 - JavaScript
 - Node.js
+- Kotlin
+- Python
 - Express.js
 - MySQL
 - MVC
